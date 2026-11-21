@@ -1,0 +1,13 @@
+# Data and secrets
+.env
+*.wallet
+data/raw/
+data/cleaned/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
