@@ -3,6 +3,8 @@
 *.wallet
 data/raw/
 data/cleaned/
+data/processed/
+data/reports/
 
 # Python
 .venv/
